@@ -17,6 +17,7 @@ DOL(The distributed operation layer)是一个软件开发框架，方便应用�
 	![ex2.png](ex2.png)
 * **example2**
 * ***将value的值从3改为2，修改完之后在下面的iterator的N值就变成了2，执行平方的次数就变成了2,3个square模块就变成了2个。***
+
 ![square1.png](square1.png)
 
 ***
